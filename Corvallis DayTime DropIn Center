@@ -1,0 +1,446 @@
+{
+  "title": "Corvallis DayTime DropIn Center: Storiline Brainstorm",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "12": {
+      "title": "ideas to start the introduction",
+      "id": 33,
+      "ideas": {
+        "1": {
+          "title": "A little girl asks a grown up, perhaps a store owner like the Old World Deli manager, Do you where is the Corvallis Day time Drop in Center.",
+          "id": 3,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "2": {
+          "title": "There is a person walking down the street, and asks another person \"Do know where I can find help ?\"",
+          "id": 2,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "13": {
+      "title": "Story Harvesting: Get a many a we can get",
+      "id": 48,
+      "ideas": {
+        "1": {
+          "title": "Homeless",
+          "id": 60
+        },
+        "2": {
+          "title": "Donors",
+          "id": 61
+        },
+        "3": {
+          "title": "Volunteers",
+          "id": 62
+        }
+      }
+    },
+    "14": {
+      "title": "Programs",
+      "id": 50,
+      "ideas": {
+        "1": {
+          "title": "HELP",
+          "id": 51,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {}
+        },
+        "2": {
+          "title": "Project Action",
+          "id": 52,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Coffee",
+          "id": 53,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "4": {
+          "title": "Vaccination",
+          "id": 54,
+          "ideas": {}
+        },
+        "5": {
+          "title": "Bike Fix",
+          "id": 55,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "6": {
+          "title": "Shelter from weather",
+          "id": 56
+        },
+        "7": {
+          "title": "ID obtaining",
+          "id": 57,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "8": {
+          "title": "Mail HUB for homeless",
+          "id": 58
+        },
+        "9": {
+          "title": "Showers",
+          "id": 59,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "15": {
+      "title": "Funding",
+      "id": 63,
+      "ideas": {
+        "1": {
+          "title": "Online",
+          "id": 64,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "IndieGoGo:Crowd funding",
+              "id": 66,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Need video",
+                  "id": 70,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Need Story text",
+                  "id": 75,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Gittip: Crowd supporting",
+              "id": 69,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Real life",
+          "id": 65,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Grants",
+              "id": 67
+            },
+            "2": {
+              "title": "City Money",
+              "id": 68,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "-1": {
+      "title": "Homeless: Where do homeless go normally ?",
+      "id": 5,
+      "ideas": {
+        "1": {
+          "title": "Resources",
+          "id": 6,
+          "ideas": {
+            "2": {
+              "title": "Library",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "County",
+                  "id": 15
+                },
+                "2": {
+                  "title": "OSU Main Library",
+                  "id": 16
+                }
+              }
+            },
+            "3": {
+              "title": "Churches",
+              "id": 10,
+              "ideas": {}
+            },
+            "6": {
+              "title": "Local biz",
+              "id": 14,
+              "ideas": {
+                "1": {
+                  "title": "The beanery",
+                  "id": 13,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "2": {
+                  "title": "Starbucks",
+                  "id": 12,
+                  "attr": {
+                    "style": {
+                      "background": "#E0E0E0"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Bar",
+                  "id": 28
+                }
+              }
+            }
+          }
+        },
+        "2": {
+          "title": "Needs",
+          "id": 17,
+          "ideas": {
+            "1": {
+              "title": "Bathroom",
+              "id": 18
+            },
+            "2": {
+              "title": "ID retrival",
+              "id": 19,
+              "ideas": {}
+            },
+            "3": {
+              "title": "Health",
+              "id": 21
+            },
+            "4": {
+              "title": "Case Management",
+              "id": 22
+            },
+            "5": {
+              "title": "Showers",
+              "id": 23
+            },
+            "6": {
+              "title": "Clothing",
+              "id": 24,
+              "ideas": {
+                "1": {
+                  "title": "New Socks",
+                  "id": 25,
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Sleeping bags",
+                  "id": 27
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    },
+    "-2": {
+      "title": "Presentation to the World",
+      "id": 29,
+      "ideas": {
+        "1": {
+          "title": "Homeless Stories",
+          "id": 30,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "1",
+              "id": 40,
+              "ideas": {}
+            },
+            "2": {
+              "title": "2",
+              "id": 41,
+              "attr": {
+                "style": {
+                  "background": "#E0E0E0"
+                }
+              }
+            },
+            "3": {
+              "title": "3",
+              "id": 46
+            }
+          }
+        },
+        "2": {
+          "title": "Donors Stories",
+          "id": 31,
+          "ideas": {
+            "1": {
+              "title": "1",
+              "id": 42
+            },
+            "2": {
+              "title": "2",
+              "id": 43
+            },
+            "3": {
+              "title": "3",
+              "id": 44
+            }
+          }
+        },
+        "3": {
+          "title": "Volunteer Stories",
+          "id": 32,
+          "ideas": {
+            "1": {
+              "title": "1",
+              "id": 71,
+              "ideas": {}
+            },
+            "2": {
+              "title": "2",
+              "id": 73
+            },
+            "3": {
+              "title": "3",
+              "id": 74
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {
+          "background": "#E0E0E0"
+        }
+      }
+    },
+    "-3": {
+      "title": "Questions",
+      "id": 34,
+      "ideas": {
+        "1": {
+          "title": "WHAT is CDDC ?",
+          "id": 35
+        },
+        "2": {
+          "title": "Why is HERE ?",
+          "id": 36,
+          "ideas": {
+            "1": {
+              "title": "Why to we need it.",
+              "id": 37
+            }
+          }
+        },
+        "3": {
+          "title": "How is it accomplishing ",
+          "id": 38,
+          "ideas": {
+            "1": {
+              "title": "Customer, and needs server, a peak in the structure. ",
+              "id": 39
+            }
+          }
+        }
+      }
+    },
+    "-4": {
+      "title": "Resources: When you ask about where do homeless go, you normally get these answers",
+      "id": 76,
+      "ideas": {
+        "1": {
+          "title": "COI",
+          "id": 77,
+          "ideas": {}
+        },
+        "2": {
+          "title": "Library",
+          "id": 78,
+          "ideas": {},
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        },
+        "3": {
+          "title": "Street",
+          "id": 79,
+          "attr": {
+            "style": {
+              "background": "#E0E0E0"
+            }
+          }
+        }
+      }
+    }
+  },
+  "links": []
+}
